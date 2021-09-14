@@ -1,0 +1,4 @@
+accelerate
+datasets
+torch>=1.9
+transformers
